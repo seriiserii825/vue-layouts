@@ -3,7 +3,8 @@
 vue layouts example
 
 ## youube link
-[![Vue Layouts](https://www.youtube.com/watch?v=C5VIL2yyzVQ)]
+[![Vue Layouts](https://img.youtube.com/vi/C5VIL2yyzVQ/0.jpg)](https://www.youtube.com/watch?v=C5VIL2yyzVQ)
+
 
 ## Project Setup
 

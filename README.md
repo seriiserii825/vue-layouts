@@ -2,6 +2,9 @@
 
 vue layouts example
 
+## youube link
+[![Vue Layouts](https://www.youtube.com/watch?v=C5VIL2yyzVQ)]
+
 ## Project Setup
 
 ```sh
